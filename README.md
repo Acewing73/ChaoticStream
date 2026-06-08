@@ -1,6 +1,6 @@
-# QuestDrop (Working Title) 🎮
+# ChaoticStream (Working Title) 🎮
 
-QuestDrop is a free, open-source cross-platform desktop application (Windows & macOS) designed to cure "gamer paralysis." It acts as an automated quest generator, smart game launcher, and automated content-creation bridge for PC gamers.
+ChaoticStream is a free, open-source cross-platform desktop application (Windows & macOS) designed to cure "gamer paralysis." It acts as an automated quest generator, smart game launcher, and automated content-creation bridge for PC gamers.
 
 Users select a pool of games they want to play, and with a single click, the app pulls their next unearned achievement from Steam, launches the game, and handles background recording and video uploading automatically.
 
