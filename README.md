@@ -32,7 +32,7 @@ We currently need help with:
 * **Documentation:** Refining setup guides and onboarding instructions.
 
 ### To get started:
-1. **Join the Conversation:** [Insert Link to Discord/Discussions Here] to chat with the team.
+1. **Join the Conversation:** (https://discord.gg/72GghsKk) to chat with the team.
 2. **Check the Issues Tab:** Look for tasks tagged with `good first issue` or `help wanted`.
 3. **Fork & PR:** Fork the repo, create your feature branch, and submit a Pull Request!
 
